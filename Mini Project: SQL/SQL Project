@@ -89,6 +89,7 @@ that there's a different cost for guests and members! */
 
 SELECT Facilities.name,
 SUM(CASE WHEN Bookings.memid!=0 THEN Bookings.slots * Facilities.membercost
-WHEN Bookings.memid=0 THEN Bookings.slots*Facilities.guestcost END) AS Revenue
-FROM Facilities JOIN Bookings ON Bookings.facid=Facilities.facid  GROUP BY Facilities.name having Revenue<1000 ORDER BY 2 DESC
+WHEN Bookings.memid=0 THEN Bookings.slots*Facilities.guestcost END)-Facilities.monthlymaintenance AS Revenue
+FROM Facilities JOIN Bookings ON Bookings.facid=Facilities.facid  GROUP BY Facilities.name ORDER BY 2 DESC
+
 
