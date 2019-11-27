@@ -11,9 +11,15 @@ Capstone Project 2:
 Mini Projects -> focusing on specific areas.
 
 Data Wrangling
+
 SQL
+
 Statistical Inference
+
 Logitsic Regression
+
 Linear Regression
+
 Naive Bayes
+
 Clustering
