@@ -1,14 +1,15 @@
 # Springboard
 
 
-Capstone Projects: larger, end-to-end projects
+Capstone Projects -> larger, end-to-end projects
 
-Capstone Project 1: Predicting NYC Taxi Fare Amount
+Capstone Project 1: 
 
-Capstone Project 2: Upcoming
+Capstone Project 2: 
 
 
-Mini Projects: smaller projects, focusing on specific areas.
+Mini Projects -> focusing on specific areas.
+
 Data Wrangling
 SQL
 Statistical Inference
