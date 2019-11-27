@@ -3,24 +3,23 @@
 
 Capstone Projects -> larger, end-to-end projects
 
-Capstone Project 1: 
+  Capstone Project 1: 
 
-Capstone Project 2: 
-
+  Capstone Project 2: 
 
 
 Mini Projects -> focusing on specific areas.
 
-Data Wrangling
+  Data Wrangling
 
-SQL
+  SQL
 
-Statistical Inference
+  Statistical Inference
 
-Logitsic Regression
+  Logitsic Regression
 
-Linear Regression
+  Linear Regression
 
-Naive Bayes
+  Naive Bayes
 
-Clustering
+  Clustering
